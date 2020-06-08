@@ -1,4 +1,4 @@
-module github.com/jackc/pgtype
+module github.com/DiaElectronics/pgtype
 
 go 1.12
 
